@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7067'
     url: http://www.gutenberg.org/2009/agents/7067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16979#The-Discipline-of-WarNine-Addresses-on-the-Lessons-of-the-War-in-Connection-with-Lent
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
