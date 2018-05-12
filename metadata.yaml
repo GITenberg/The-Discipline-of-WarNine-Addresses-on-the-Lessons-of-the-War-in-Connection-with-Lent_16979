@@ -1,0 +1,29 @@
+_repo: The-Discipline-of-WarNine-Addresses-on-the-Lessons-of-the-War-in-Connection-with-Lent_16979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, John Hasloch
+    birthdate: 1847
+    deathdate: 1935
+    gutenberg_agent_id: '7067'
+    url: http://www.gutenberg.org/2009/agents/7067
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Sermons'
+title: 'The Discipline of War
+
+  Nine Addresses on the Lessons of the War in Connection with Lent'
+url: http://www.gutenberg.org/ebooks/16979
